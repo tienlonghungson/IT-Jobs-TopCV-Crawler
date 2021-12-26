@@ -1,5 +1,9 @@
+<div align="center">
+
 # IT Job TopCV Crawler
-This repo crawls data about IT jobs from https://www.topcv.vn/tim-viec-lam-it-phan-mem-c10026?salary=0&exp=0&company_field=0&sort=up_top&page
+
+</div>
+This repo crawls data about IT jobs from [TopCV.vn (IT Jobs category)](https://www.topcv.vn/tim-viec-lam-it-phan-mem-c10026?salary=0&exp=0&company_field=0&sort=up_top&page)
 # Requirements:
 - requests
 - beautifulsoup4
